@@ -1,0 +1,21 @@
+.moving-text {
+  color: white;
+}
+.moving-text {
+  position: absolute;
+  top: 10%;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+  animation: moveLeftToRight 15s linear infinite;
+}
+
+@keyframes moveLeftToRight {
+  0% {
+    left: -100%;
+  }
+  100% {
+    left: 100%;
+  }
+}

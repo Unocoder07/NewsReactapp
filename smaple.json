@@ -1,0 +1,83 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Hage Geingob: Namibia's president dies aged 82 - BBC.com",
+      "description": "The veteran of his country's independence struggle revealed he had cancer last month.",
+      "url": "https://www.bbc.com/news/world-africa-68196412",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/642C/production/_132544652_gettyimages-1817803150.jpg",
+      "publishedAt": "2024-02-04T09:45:00Z",
+      "content": "Hage Geingob revealed his cancer diagnosis last month\r\nNamibia's President Hage Geingob has died at the age of 82 while receiving medical treatment at a hospital in the capital, Windhoek. \r\nA veteran… [+2303 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tina Burnside, Nouran Salahieh",
+      "title": "An intense atmospheric river is set to slam into California, threatening to flood roads and trigger mudslides - CNN",
+      "description": "An intense, long-lasting atmospheric river is moving into California, bringing the potential for “life-threatening” flooding, mud slides and widespread power outages as it dumps heavy rain and snow. Here’s the latest:",
+      "url": "https://www.cnn.com/2024/02/04/us/california-atmospheric-river-flooding/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1976110646.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-02-04T08:04:00Z",
+      "content": "An intense, long-lasting atmospheric river is moving into California Sunday, bringing the potential for life-threatening flooding, mudslides and widespread power outages as it dumps heavy rain and sn… [+4984 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "TARA COPP, LOLITA C. BALDOR",
+      "title": "US, Britain launch new strikes on Houthi sites in Yemen - The Associated Press",
+      "description": "The U.S. and Britain struck 36 Houthi sites in Yemen in a second wave of assaults meant to further disable Iran-backed groups that have relentlessly attacked American and international interests in the wake of the Israel-Hamas war. In addition to the strikes …",
+      "url": "https://apnews.com/article/iraq-iran-syria-jordan-strikes-us-2f235ac0d00edc266576ef0d76fa33e4",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3797d99/2147483647/strip/true/crop/4629x2604+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0d%2Fcd%2Fbc43a8c76034a8885dd95bcdc17d%2Fb2da37a730d04b4b90a0e9c3c9d18608",
+      "publishedAt": "2024-02-04T07:25:00Z",
+      "content": "WASHINGTON (AP) The United States and Britain struck 36 Houthi targets in Yemen on Saturday in a second wave of assaults meant to further disable Iran-backed groups that have relentlessly attacked Am… [+7164 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Dan Mangan",
+      "title": "Nikki Haley makes surprise 'Saturday Night Live' cameo asking 'Trump' questions - CNBC",
+      "description": "Nikki Haley surprised the \"Saturday Night Live\" audience when she stood up at a faux South Carolina town hall and traded zingers with \"Donald Trump.\"",
+      "url": "https://www.cnbc.com/2024/02/03/nikki-haley-in-surprise-saturday-night-live-cameo-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107363542-1706063342770-gettyimages-1956245601-jr029162_wcreud0x.jpeg?v=1706063445&w=1920&h=1080",
+      "publishedAt": "2024-02-04T04:57:00Z",
+      "content": "Nikki Haley made a surprise and funny appearance on \"Saturday Night Live,\" where she asked a cast member playing her Republican presidential primary opponent Donald Trump a series of zingers in the c… [+3689 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Jack Baer",
+      "title": "Lakers rally to end Knicks' 9-game win streak - Yahoo Sports",
+      "description": "The Knicks went scoreless for more than seven minutes in the fourth quarter.",
+      "url": "https://sports.yahoo.com/lakers-rally-to-end-knicks-9-game-win-streak-040009687.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j5AuEohOAUlutqdkofRSyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/c4e85e80-c310-11ee-8d7a-bbbf9c8612dc",
+      "publishedAt": "2024-02-04T04:41:00Z",
+      "content": "The Los Angeles Lakers have been one of the most inconsistent teams in the NBA this season, but they still had enough to shut down the hottest team in the league.\r\nThe Lakers snapped the New York Kni… [+1432 chars]"
+    },
+    {
+      "source": { "id": null, "name": "247Sports" },
+      "author": "Evan Rogers",
+      "title": "UNC-Duke: Hubert Davis Postgame Q&A - 247Sports",
+      "description": "Here’s everything the North Carolina head coach said following Saturday night’s rivalry win over Duke.",
+      "url": "https://247sports.com/college/north-carolina/longformarticle/unc-basketball-duke-hubert-davis-press-conference-armando-bacot-harrison-ingram-226635247/",
+      "urlToImage": "https://s3media.247sports.com/Uploads/Assets/598/272/12272598.jpg",
+      "publishedAt": "2024-02-04T04:35:54Z",
+      "content": "“I don't know if things have been weighing (on him). I mean, this is not out of character. I told you guys that I first of all, I require the guys to stop by the office at least one time a week. And … [+1156 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    }
+  ]
+}
+business
+entertainment
+general
+health
+science
+sports
+technology
