@@ -2,7 +2,7 @@ body {
   background-color: #282c34;
 }
 .Nav_bar {
-  margin-left: 185px;
+  /* margin-left: 185px; */
   background-color: aquamarine;
 }
 .side_bar {
@@ -14,7 +14,7 @@ body {
   position: fixed;
   left: 0;
   top: 0;
-  /* margin-top: 95px; */
+  margin-top: 57px;
 }
 
 .news_item {

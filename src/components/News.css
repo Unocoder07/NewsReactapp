@@ -5,11 +5,17 @@
   animation: moveLeftToRight 10s linear infinite;
   color: white;
 }
-@keyframes moveLeftToRight {
+/* @keyframes moveLeftToRight {
   0% {
     left: -30%;
   }
   100% {
     left: 100%;
   }
+} */
+.contianer {
+  margin-top: 60px; /* Equal to the navbar height */
+  padding: 20px; /* Optional: for some inner spacing */
+  height: calc(100vh - 60px); /* Viewport height minus navbar height */
+  overflow-y: auto;
 }

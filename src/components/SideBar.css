@@ -10,10 +10,18 @@
   justify-content: flex-start;
   align-items: flex-start;
   padding: 10px;
+  margin-top: 50px;
 }
 .left > div {
   margin: 10px 0 0;
 }
 .right > div {
   margin: 0 0 20px;
+}
+.upsidebarclass {
+  background-color: rgb(59, 26, 84);
+  height: 40px;
+}
+h2 {
+  color: white;
 }

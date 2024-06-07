@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-
+import "./NavBar.css";
 class NavBar extends Component {
   render() {
     return (
-      <div>
+      <div className="navbar">
         <nav className="navbar navbar-expand-lg  bg-dark">
           <Link className="navbar-brand" to="/">
             NewsMonkey
