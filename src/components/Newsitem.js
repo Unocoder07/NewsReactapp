@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import Newstem from "./Newsitem.css";
+import SideBar from "./SideBar";
 export class Newsitem extends Component {
   render() {
     let { title, description, imageurl, url } = this.props;
     return (
-      <div className="container1 ">
+      <>
         <div className="card">
           <img
             className="card-img-top"
@@ -28,7 +29,7 @@ export class Newsitem extends Component {
             </a>
           </div>
         </div>
-      </div>
+      </>
     );
   }
 }

@@ -1,3 +1,24 @@
 body {
   background-color: #282c34;
 }
+.Nav_bar {
+  margin-left: 185px;
+  background-color: aquamarine;
+}
+.side_bar {
+  width: 200px; /* Adjust the width as needed */
+  height: 100%;
+  background-color: lightgray; /* Background for the container */
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  top: 0;
+  /* margin-top: 95px; */
+}
+
+.news_item {
+  background-color: rgb(29, 39, 29);
+  margin-left: 183px;
+  margin-top: 40px;
+}
